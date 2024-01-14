@@ -44,6 +44,8 @@
   <img src="./public/assets/watch.png" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
 </div>
+## Step by Step instruction are found here: https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/
+Credit: mrcloudbook.com
 
 ## Prerequests
 
